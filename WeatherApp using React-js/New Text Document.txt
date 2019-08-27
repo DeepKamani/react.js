@@ -1,0 +1,4 @@
+npx create-react-app filename
+npm cache clean
+cd filename
+npm start
